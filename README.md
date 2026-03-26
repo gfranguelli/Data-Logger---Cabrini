@@ -79,4 +79,13 @@ Além disso, possibilitou o desenvolvimento de habilidades em:
 - Programação com Arduino  
 - Integração de sensores  
 - Interface com o usuário  
-- Prototipagem física  
+- Prototipagem física
+
+---
+
+## 🧑‍💻 Integrantes
+- Cauã Oliveira - 081240033
+- Giovanna Bruna de Lima - 081240010
+- Giovanna Franguelli - 081240019
+- Isabella Apolinario - 081240025
+- Julia Pereira - 081240034
