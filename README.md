@@ -89,3 +89,5 @@ Além disso, possibilitou o desenvolvimento de habilidades em:
 - Giovanna Franguelli - 081240019
 - Isabella Apolinario - 081240025
 - Julia Pereira - 081240034
+
+LINK WOKWI: https://wokwi.com/projects/459699310017741825
